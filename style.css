@@ -1,0 +1,17 @@
+/* global css*/
+*{
+    font-size: 30px;
+    font-weight: 500;
+}
+/* external css*/
+h3{
+    color: blue;
+}
+/* element selector */
+h4{
+    color: palevioletred;
+}
+/* class selector */
+.myclass{
+    color: darkorange;
+}
